@@ -8,8 +8,6 @@
 
 I'm interested in development, devops and I've found myself a recent keen in cybersecurity.
 
-I believe the internet should be a free and open source place owned by the users for the users.
-
 Also I love❤ classical art and music.
 
 You can see more by going to my [website](https://codebarru.fr/).

@@ -1,14 +1,14 @@
-## Code-Barre 🤖
+## Antoine Ousselin 🤖
 
 ![header](./img/header-cropped.png)
 
 ### About me 🕴
 
-**I'm Code-Barre**, a 🇫🇷 french 🇫🇷 fullstack developper, cybersecurity enthusiat and a student.
+**I'm Antoine Ousselin**, a french 🇫🇷 fullstack developper, cybersecurity enthusiat and a student.
 
 I'm interested in development, devops and I've found myself a recent keen in cybersecurity.
 
-Also I love❤ classical art and music.
+I also enjoy classical art and music.
 
 You can see more by going to my [website](https://codebarru.fr/).
 

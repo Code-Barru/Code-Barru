@@ -16,15 +16,15 @@ You can see more by going to my [website](https://codebarru.fr/).
 
 #### Low level languages
 
-[![Low level](https://skillicons.dev/icons?i=rust,cpp,c)](https://skillicons.dev)
+[![Low level](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
 
 #### High level languages & frameworks
 
-[![High level & frameworks](https://skillicons.dev/icons?i=js,ts,py,vue,svelte)](https://skillicons.dev)
+[![High level & frameworks](https://skillicons.dev/icons?i=js,ts,py,svelte)](https://skillicons.dev)
 
 #### Deployment
 
-[![Deployment](https://skillicons.dev/icons?i=docker,debian,github)](https://skillicons.dev)
+[![Deployment](https://skillicons.dev/icons?i=docker,debian,kubernetes,github)](https://skillicons.dev)
 
 ### Stats 📈
 

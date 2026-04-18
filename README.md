@@ -2,7 +2,7 @@
 
 ![header](./img/header-cropped.png)
 
-### About me 🕴
+### About me
 
 **I'm Antoine Ousselin**, a french 🇫🇷 fullstack developper, cybersecurity enthusiat and a student.
 

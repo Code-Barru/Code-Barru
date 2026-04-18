@@ -1,4 +1,4 @@
-## Antoine Ousselin 🤖
+## Antoine Ousselin
 
 ![header](./img/header-cropped.png)
 
@@ -12,7 +12,7 @@ I also enjoy classical art and music.
 
 You can see more by going to my [website](https://codebarru.fr/).
 
-### My Skills 🔥
+### My Skills
 
 #### Low level languages
 
@@ -26,7 +26,7 @@ You can see more by going to my [website](https://codebarru.fr/).
 
 [![Deployment](https://skillicons.dev/icons?i=docker,debian,kubernetes,github)](https://skillicons.dev)
 
-### Stats 📈
+### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Barru&theme=transparent&layout=compact)
 

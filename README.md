@@ -4,13 +4,11 @@
 
 ### About me
 
-**I'm Antoine Ousselin**, a french 🇫🇷 fullstack developper, cybersecurity enthusiat and a student.
+**I'm Antoine Ousselin**, a french 🇫🇷 fullstack developper, transport enthusiat and a student.
 
-I'm interested in development, devops and I've found myself a recent keen in cybersecurity.
+I'm proficient in development, devops.
 
-I also enjoy classical art and music.
-
-You can see more by going to my [website](https://codebarru.fr/).
+You can see more by going to my [website](https://antoineousselin.fr/).
 
 ### My Skills
 
